@@ -4,7 +4,7 @@ Este repositorio contiene una colección de programas escritos en Python. Los pr
 
 ## Contenido
 
-- **Tic Tac Toe:** Pequeño programa donde se implementael juego de 3 en raya.   
+- **Tic Tac Toe:** Pequeño programa donde se implementael juego de 3 en raya.  
 - **...**
 
 ## Uso
@@ -13,4 +13,8 @@ Puedes clonar este repositorio para acceder a los programas y usarlos según sea
 
 ```bash
 git clone https://github.com/EFL28/PythonLearning
+```
+
+```bash
 cd Repositorio-de-Programas-en-Python
+```
