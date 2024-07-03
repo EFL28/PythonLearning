@@ -21,11 +21,11 @@ El juego de TicTacToe es un juego clásico de dos jugadores donde los jugadores 
 
 1. Clona este repositorio:
     ```sh
-    git clone https://github.com/EFL28/TTTpython
+    git clone https://github.com/EFL28/PythonLearning
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd TicTacToe
+    cd UdemyCourse/TicTacToe
     ```
 3. Ejecuta el juego:
     ```sh
